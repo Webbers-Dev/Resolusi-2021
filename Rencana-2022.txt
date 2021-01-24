@@ -5,4 +5,6 @@ bla bla bla bla bla bla
 bla bla bla bla bla bla 2
 bla bla bla bla 3
 menambahkan hal baru di sini 
- ^hal baru tapi beda 
+ ^hal baru lagi 
+ ^Nambahin hal yang lupa 
+
